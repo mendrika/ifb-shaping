@@ -1,2 +1,4 @@
 # ifb-shaping
-example of ingress shaping with IFB on linux
+not mine:
+https://wiki.archlinux.org/title/advanced_traffic_control
+
